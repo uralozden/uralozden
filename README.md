@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Ural ÖZDEN</h1>
-<h3 align="center">I am software developer since my childhood. I work as a Co-founder and Software Developer in [Buproject](https://www.buproject.net/).</h3>
+<h3 align="center">I am software developer since my childhood. I work as a Co-founder and Software Developer in Buproject.</h3>
 
 <p align="left"> <a href="https://twitter.com/uralozden" target="blank"><img src="https://img.shields.io/twitter/follow/uralozden?logo=twitter&style=for-the-badge" alt="uralozden" /></a> </p>
 
