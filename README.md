@@ -16,3 +16,4 @@
 
 - 📫 How to reach me **uralozden@gmail.com**
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uralozden&theme=dark&hide_border=true)](https://git.io/streak-stats)
