@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/uralozden" target="blank"><img src="https://img.shields.io/twitter/follow/uralozden?logo=twitter&style=for-the-badge" alt="uralozden" /></a> </p>
 
 
-- 🔭 I’m currently working on [Buproject](https://www.buproject.net/)
+- 🔭 I’m currently working on [Buproject](https://www.buproject.net/) also [UHA Mobil AI Studio](https://studio.buproject.net/)
 
 - 🌱 I’m currently learning **machine learning**
 
@@ -16,4 +16,4 @@
 
 - 📫 How to reach me **uralozden@gmail.com**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uralozden&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=uralozden&theme=dark)](https://git.io/streak-stats)
