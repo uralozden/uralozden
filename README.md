@@ -4,16 +4,16 @@
 <p align="left"> <a href="https://twitter.com/uralozden" target="blank"><img src="https://img.shields.io/twitter/follow/uralozden?logo=twitter&style=for-the-badge" alt="uralozden" /></a> </p>
 
 
-- 🔭 I’m currently working on [Buproject](https://www.buproject.net/) also [UHA Mobil AI Studio](https://studio.buproject.net/)
+- 🔭 I’m currently working on [Buproject](https://www.buproject.net/)
+
+- 🔭 I’m co-founder and working on [UHA Mobil AI Studio](https://studio.buproject.net/)
+
+- 🔭 I’m co-founder of [StartupDeal](https://startupdeal.co/)
+
+- 🔭 I’m co-founder of [Fuego]((https://fuego.wtf/))
 
 - 🌱 I’m currently learning **machine learning**
-
-- 👨‍💻 I focus on web and mobile applications
-
-- 🤝 And also I am planning my project ideas share on [Youtube Channel](https://www.youtube.com/channel/UCFHwxsaf93YRvWf7nqT480A)
 
 - 💬 Ask me about **front end development, python scrape and crawl, react native / flutter mobile development **
 
 - 📫 How to reach me **uralozden@gmail.com**
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=uralozden&theme=dark)](https://git.io/streak-stats)
