@@ -10,7 +10,7 @@
 
 - 🔭 I’m co-founder of [StartupDeal](https://startupdeal.co/)
 
-- 🔭 I’m co-founder of [Fuego]((https://fuego.wtf/))
+- 🔭 I’m co-founder of [Fuego AI Research Lab](https://fuego.wtf/)
 
 - 🌱 I’m currently learning **machine learning**
 
