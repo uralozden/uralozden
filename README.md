@@ -9,7 +9,7 @@
 - 🔭 I’m co-founder and working on [UHA Mobil AI Studio](https://studio.buproject.net/)
 
 - 🔭 I’m co-founder of [Etsetra](https://www.etsetra.com/)
-- 
+
 - 🔭 I’m co-founder of [StartupDeal](https://startupdeal.co/)
 
 - 🔭 I’m co-founder of [Fuego AI Research Lab](https://fuego.wtf/)
